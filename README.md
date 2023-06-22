@@ -5,6 +5,18 @@
 - 🌱 I’m working with PHP, React Native, ReactJs, NodeJs and learning new technologies..
 - 📫 How to reach me: Instagram - @xannd.o / Linkedin - https://www.linkedin.com/in/alexandre-oliveira-5a3291210
 
+##
+
+<div style="display:flex">
+  <img alt="ReactJs Xannd" align="center" width="40" height="40"   
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img alt="NodeJs Xannd" align="center" width="40" height="40"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+          
+          
+
 ## Github Analytics
   
 <a href="#" onclick="return false;">
